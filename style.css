@@ -1,0 +1,75 @@
+body{
+    margin: 2px;
+}
+.parent{
+    border: 10px solid black;
+}
+.firstDiv{
+    background-color: #64A8FF;
+    height: 90px;
+}
+.secondDiv{
+    display: flex;
+    flex-direction: row;
+}
+.orange{
+    background-color: #E87A44;
+    height: 80px;
+    width: 25%;
+}
+.brown{
+    background-color:#78410D;
+    height: 80px;
+    width: 25%;
+}
+.pink{
+    background-color: #EA7197;
+    height: 80px;
+    width: 25%;
+}
+.voilet{
+    background-color: #5B5AB2;
+    height: 80px;
+    width: 25%;
+}
+.thirdDiv{
+    display: flex;
+    flex-direction: row;   
+   }   
+.black{
+    background-color: #121212;
+    height: 400px;
+    width: 75pc;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+.golden{
+    height: 120px;
+    width: 120px;
+    background-color: #816803;
+}
+.purple{
+    background-color: #CD94E2;
+    height: 400px;
+    width: 12.5pc;
+}
+.gray{
+    background-color: #41474B;
+    height: 500px;
+    width: 12.5pc; 
+}
+.thirdDiv{
+    display: flex;
+    flex-direction: row;
+}
+.green{
+    background-color: #3E8542;
+    width: 87.5%;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+}
+.last-row{
+    position: relative;
+}
